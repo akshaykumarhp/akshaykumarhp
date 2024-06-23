@@ -19,7 +19,7 @@ Relevant Courses: Computer Networks, Data Structures & Algorithms, Artificial In
 ## Skills
 
 - **Languages:** Java, JavaScript, TypeScript, Python, HTML, C/C++, CSS, SQL, XML, JSON
-- **Frameworks/Libraries:** React.js, Node.js, Express.js, REST API, Tailwind CSS, Bootstrap, Redux
+- **Frameworks/Libraries:** React.js, Node.js, Express.js, Next.js, REST API, Tailwind CSS, Bootstrap, Redux
 - **Tools/Platforms:** Git & GitHub, AWS, Figma, Visual Studio Code, Excel, PyCharm, Agile, Docker, Microsoft Office 365, Jenkins, Jira, Pandas, Scikit-learn, NumPy, Matplotlib, Keras, Seaborn
 - **Databases:** MySQL, MongoDB, SQLite, NoSQL, PostgreSQL
 - **Methodologies:** Clustering Algorithms, Decision Trees, Ensemble Methods, PCA, Regression, XGBoost
