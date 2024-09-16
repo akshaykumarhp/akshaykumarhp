@@ -60,15 +60,30 @@
 
 ## 📘 Education
 
-### ![Syracuse University](https://upload.wikimedia.org/wikipedia/commons/2/2b/Syracuse_University_seal.svg) Syracuse University  
-**M.S. in Computer Science** (Expected May 2025)  
-GPA: 3.5/4.0  
-*Relevant Courses:* Design & Analysis of Algorithms, Object-Oriented Design, Machine Learning, Database Systems, Natural Language Processing, Cryptography
+### Syracuse University  
+**Master of Science in Computer Science**  
+*Expected Graduation:* May 2025  
+**GPA:** 3.5/4.0  
+**Relevant Courses:**  
+- Design & Analysis of Algorithms  
+- Object-Oriented Design  
+- Machine Learning  
+- Database Systems  
+- Natural Language Processing  
+- Cryptography  
 
-### ![Visvesvaraya Technological University](https://upload.wikimedia.org/wikipedia/en/0/0e/Visvesvaraya_Technological_University_logo.png) Visvesvaraya Technological University  
-**B.E. in Electronics & Communication** (Graduated May 2023)  
-GPA: 8.33/10.0  
-*Relevant Courses:* Computer Networks, Data Structures, Artificial Intelligence, Computer Architecture, Probability and Statistics
+---
+
+### Visvesvaraya Technological University  
+**Bachelor of Engineering in Electronics & Communication**  
+*Graduated:* May 2023  
+**GPA:** 8.33/10.0  
+**Relevant Courses:**  
+- Computer Networks  
+- Data Structures  
+- Artificial Intelligence  
+- Computer Architecture  
+- Probability and Statistics
 
 ## 🌟 Featured Projects
 
