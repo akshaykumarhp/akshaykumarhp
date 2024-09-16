@@ -2,7 +2,7 @@
 
 **Computer Science Graduate Student at Syracuse University | Software Engineer | Full-stack Developer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=akshaykumarhp&color=blueviolet&style=flat-square) ![GitHub Followers](https://img.shields.io/github/followers/akshaykumarhp?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=akshaykumarhp&color=blueviolet&style=flat-square) 
 
 - 🔭 I’m currently working as a Graduate Research Assistant at Syracuse University, developing spectrum management algorithms and front-end components for the Zone Management System (ZMS) project.
 - 🌱 I’m currently expanding my knowledge in **Machine Learning**, **NLP**, and **Software Development**.
