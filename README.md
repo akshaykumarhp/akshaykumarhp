@@ -54,7 +54,9 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
 
-**Machine Learning:** Clustering Algorithms, Decision Trees, Ensemble Methods, Regression, XGBoost, REST API
+### Machine Learning
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF9900?logo=xgboost&logoColor=black&style=flat-square)
 
 ## 📘 Education
 
