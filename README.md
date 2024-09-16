@@ -1,62 +1,49 @@
-# Akshay Kumar Huliyar Prabhakara
+# Hi there, I'm Akshay Kumar Huliyar Prabhakara 👋
 
-**Email:** [ahuliyar@syr.edu](mailto:ahuliyar@syr.edu)  
-**Phone:** +1 (680) 356-8268  
-**LinkedIn:** [linkedin.com/in/akshaykumarhp](https://linkedin.com/in/akshaykumarhp)
+**Computer Science Graduate Student at Syracuse University | Software Engineer | Frontend & Backend Developer**
 
-## Education
+- 🔭 I’m currently working as a Graduate Research Assistant at Syracuse University, developing spectrum management algorithms and front-end components for the Zone Management System (ZMS) project.
+- 🌱 I’m currently expanding my knowledge in **Machine Learning**, **NLP**, and **Cryptography**.
+- 👯 I’m open to collaborating on projects related to **Web Development**, **Machine Learning**, and **Cloud Computing**.
+- 💬 Ask me about **JavaScript, React.js, Python**, or anything related to **full-stack development**.
+- 📫 How to reach me: [ahuliyar@syr.edu](mailto:ahuliyar@syr.edu)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm passionate about creating user-friendly web applications and optimizing systems for performance and scalability.
 
-### Syracuse University, College of Engineering & Computer Science, Syracuse, USA
-**Master of Science in Computer Science**  
-*May 2025 (GPA: 3.5/4.0)*  
-Relevant Courses: Design & Analysis of Algorithms, Object-Oriented Software Design, Machine Learning, Database Management Systems, Structured Programming & Formal Methods.
+## 🛠️ Technical Skills
 
-### Visvesvaraya Technological University, SCE, Bengaluru, India
-**Bachelor of Engineering in Electronics and Communication Engineering**  
-*June 2023 (GPA: 8.33/10)*  
-Relevant Courses: Computer Networks, Data Structures & Algorithms, Artificial Intelligence, Computer Architecture, Calculus & Linear Algebra, Complex Analysis, Probability and Statistics.
+- **Languages:** JavaScript, TypeScript, Python, Java, HTML, C/C++, CSS, SQL, XML, JSON
+- **Frameworks & Libraries:** React.js, Node.js, Express.js, Flask, MaterialUI, Tailwind CSS, Bootstrap, Redux, Pandas, NumPy, Matplotlib, Keras
+- **Tools & Platforms:** Git & GitHub, AWS, Postman, Visual Studio Code, Docker, Jenkins, Jira
+- **Databases:** MySQL, MongoDB, PostgreSQL, Firebase, Google Cloud Platform
+- **Machine Learning:** Clustering Algorithms, Decision Trees, Ensemble Methods, Regression, XGBoost, REST API
 
-## Skills
+## 📘 Education
 
-- **Languages:** Java, JavaScript, TypeScript, Python, HTML, C/C++, CSS, SQL, XML, JSON
-- **Frameworks/Libraries:** React.js, Node.js, Express.js, Next.js, REST API, Tailwind CSS, Bootstrap, Redux
-- **Tools/Platforms:** Git & GitHub, AWS, Figma, Visual Studio Code, Excel, PyCharm, Agile, Docker, Microsoft Office 365, Jenkins, Jira, Pandas, Scikit-learn, NumPy, Matplotlib, Keras, Seaborn
-- **Databases:** MySQL, MongoDB, SQLite, NoSQL, PostgreSQL
-- **Methodologies:** Clustering Algorithms, Decision Trees, Ensemble Methods, PCA, Regression, XGBoost
+- **M.S. in Computer Science** (Expected May 2025)  
+  *Syracuse University, USA*  
+  GPA: 3.5/4.0  
+  *Relevant Courses:* Design & Analysis of Algorithms, Object-Oriented Design, Machine Learning, Database Systems, Natural Language Processing, Cryptography
 
-## Professional Experience
+- **B.E. in Electronics & Communication** (Graduated May 2023)  
+  *Visvesvaraya Technological University, India*  
+  GPA: 8.33/10.0  
+  *Relevant Courses:* Computer Networks, Data Structures, Artificial Intelligence, Computer Architecture, Probability and Statistics
 
-### Park Zeus Software Engineer Intern, BOSCH Limited, Bengaluru, India
-*Feb 2023 – May 2023*
-- Designed user interfaces for a Valet Parking application and Park Zeus System Portals using front-end frameworks, boosting user engagement by 35%.
-- Mapped real-time parking space visibility and reservation capabilities, significantly enhancing convenience for over 2000 BOSCH employees.
-- Collaborated with the database team to streamline access control, reducing the administrative workload by 50%.
+## 🌟 Featured Projects
 
-## Projects
+### [Personal Finance Management System](https://github.com/akshaykumarhp/Personal-Finance-Management-System)
+A finance management tool built using Next.js with Supabase for secure data storage and user authentication. The UI is crafted with Tailwind CSS, improving user engagement by 20%.
 
-### [Social Media Networking Website]
-*Oct 2023 – Jan 2024*
-- Developed a responsive full-stack social media application using React.js and Node.js, enabling users to create profiles, post content, and connect with others.
-- Enhanced user interaction by 15% through an intuitive front end.
-- Engineered a MongoDB database for storing user profiles and posts, optimizing data management.
+### [Social Media Networking Site](https://github.com/akshaykumarhp/Interactify-socialmedia-project)
+A full-stack social media platform built using React.js and Node.js, supporting 500+ users. Features real-time updates and a responsive user interface, boosting user retention by 40%.
 
-### e-Commerce Grocery Delivery Website
-*May 2023 – Jul 2023*
-- Built a responsive website using React.js with features like product search, cart management, and order placement.
-- Engineered a RESTful API using Node.js and Express.js for backend, improving user authentication processing time by 60%.
-- Integrated MongoDB for efficient data storage and management, reducing access times by 50%.
+### [Flight Arrival Status Prediction](https://github.com/akshaykumarhp/Flight-Arrival-Status-using-Random-Forest-Classifier)
+A machine learning project that uses Random Forest Classifier to predict flight arrival statuses. Improved data analysis speed by 40% using pandas, NumPy, and scikit-learn.
 
-### [Hand Gesture Recognition and Voice Conversion using ML]
-*Jan 2023 – Apr 2023*
-- Led a team of 4 to develop an ML model identifying different Indian hand signs.
-- Trained the model with 200 images per hand gesture, achieving an accuracy of 83.7% at approximately 300-350 lumens.
+## 📫 Connect with Me
 
-## Organizational Leadership Experience
+- GitHub: [github.com/akshaykumarhp](https://github.com/akshaykumarhp)
+- LinkedIn: [linkedin.com/in/akshaykumarhp](http://www.linkedin.com/in/akshaykumarhp)
 
-### Teaching Assistant, Aakanksha Trust, Bengaluru, India
-*Jun 2022 – Feb 2023*
-- Educated over 20 underprivileged students in mathematics and basic Python programming to ensure a solid educational foundation.
-
----
-
-Feel free to connect with me on [GitHub](https://github.com/akshaykumarhp) and [LinkedIn](https://linkedin.com/in/akshaykumarhp).
+Thanks for stopping by! 😊
