@@ -2,6 +2,8 @@
 
 **Computer Science Graduate Student at Syracuse University | Software Engineer | Full-stack Developer**
 
+![Profile Views](https://komarev.com/ghpvc/?username=akshaykumarhp&color=blueviolet&style=flat-square) ![GitHub Followers](https://img.shields.io/github/followers/akshaykumarhp?style=flat-square)
+
 - 🔭 I’m currently working as a Graduate Research Assistant at Syracuse University, developing spectrum management algorithms and front-end components for the Zone Management System (ZMS) project.
 - 🌱 I’m currently expanding my knowledge in **Machine Learning**, **NLP**, and **Software Development**.
 - 👯 I’m open to collaborating on projects related to **Web Development**, **Machine Learning**, and **Cloud Computing**.
@@ -60,7 +62,7 @@
 
 ## 📘 Education
 
-| **University**                                | **Degree**                              | **GPA**  | **Graduation**        | **Relevant Courses**                                                                                             |
+| 🎓 **University**                                | 🎯 **Degree**                              | 📊 **GPA**  | 🎓 **Graduation**        | 📚 **Relevant Courses**                                                                                             |
 |-----------------------------------------------|-----------------------------------------|----------|-----------------------|-------------------------------------------------------------------------------------------------------------------|
 | Syracuse University                           | Master of Science in Computer Science   | 3.5/4.0  | Expected May 2025      | Design & Analysis of Algorithms, Object-Oriented Design, Machine Learning, Database Systems, NLP, Cryptography    |
 | Visvesvaraya Technological University         | Bachelor of Engineering in E&C          | 8.33/10  | May 2023               | Computer Networks, Data Structures, Artificial Intelligence, Computer Architecture, Probability and Statistics     |
@@ -81,5 +83,9 @@
 ## ⚡ Recent GitHub Activity
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumarhp&layout=compact&theme=radical)](https://github.com/akshaykumarhp)
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akshaykumarhp&theme=radical)](https://git.io/streak-stats)
 
 Thanks for stopping by! 😊
