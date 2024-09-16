@@ -116,7 +116,7 @@ A machine learning model that predicts flight arrival status using the **Random 
 
 ## 📫 Connect with Me
 
-- GitHub: [github.com/akshaykumarhp](https://github.com/akshaykumarhp)
-- LinkedIn: [linkedin.com/in/akshaykumarhp](http://www.linkedin.com/in/akshaykumarhp)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshaykumarhp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaykumarhp/)
 
 Thanks for stopping by! 😊
