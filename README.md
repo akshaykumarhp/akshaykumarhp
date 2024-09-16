@@ -1,6 +1,6 @@
 # Hi there, I'm Akshay Kumar Huliyar Prabhakara 👋
 
-**Computer Science Graduate Student at Syracuse University | Software Engineer | Frontend & Backend Developer**
+**Computer Science Graduate Student at Syracuse University | Software Engineer | Full-stack Developer**
 
 - 🔭 I’m currently working as a Graduate Research Assistant at Syracuse University, developing spectrum management algorithms and front-end components for the Zone Management System (ZMS) project.
 - 🌱 I’m currently expanding my knowledge in **Machine Learning**, **NLP**, and **Software Development**.
