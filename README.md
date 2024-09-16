@@ -3,7 +3,7 @@
 **Computer Science Graduate Student at Syracuse University | Software Engineer | Frontend & Backend Developer**
 
 - 🔭 I’m currently working as a Graduate Research Assistant at Syracuse University, developing spectrum management algorithms and front-end components for the Zone Management System (ZMS) project.
-- 🌱 I’m currently expanding my knowledge in **Machine Learning**, **NLP**, and **Cryptography**.
+- 🌱 I’m currently expanding my knowledge in **Machine Learning**, **NLP**, and **Software Development**.
 - 👯 I’m open to collaborating on projects related to **Web Development**, **Machine Learning**, and **Cloud Computing**.
 - 💬 Ask me about **JavaScript, React.js, Python**, or anything related to **full-stack development**.
 - 📫 How to reach me: [ahuliyar@syr.edu](mailto:ahuliyar@syr.edu)
