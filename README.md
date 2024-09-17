@@ -84,8 +84,4 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumarhp&layout=compact&theme=radical)](https://github.com/akshaykumarhp)
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akshaykumarhp&theme=radical)](https://git.io/streak-stats)
-
 Thanks for stopping by! 😊
