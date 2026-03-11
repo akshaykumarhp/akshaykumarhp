@@ -4,13 +4,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshaykumarhp&color=blueviolet&style=flat-square) 
 
-- [cite_start]🔭 I’m currently working as a **Data Engineer** at **Capgemini**, supporting **Citi** by building Python services, ETL pipelines, and optimizing MongoDB clusters[cite: 4, 5, 9, 10].
-- [cite_start]🌱 I’m passionate about leveraging **GenAI** and automation to streamline operational workflows in Agile environments[cite: 7].
+- 🔭 I’m currently working as a **Data Engineer** at **Capgemini**, supporting **Citi** by building Python services, ETL pipelines, and optimizing MongoDB clusters.
+- 🌱 I’m passionate about leveraging **GenAI** and automation to streamline operational workflows in Agile environments.
 - 👯 I’m experienced in projects related to **Backend Engineering**, **GenAI Enablement**, and **Data Pipeline Automation**.
-- [cite_start]💬 Ask me about **Python, MongoDB performance tuning, REST APIs**, or **cloud-native deployments**[cite: 6, 36].
-- [cite_start]📫 How to reach me: [akshaykumarhp11@gmail.com](mailto:akshaykumarhp11@gmail.com)[cite: 3].
+- 💬 Ask me about **Python, MongoDB performance tuning, REST APIs**, or **cloud-native deployments**.
+- 📫 How to reach me: [akshaykumarhp11@gmail.com](mailto:akshaykumarhp11@gmail.com).
 - 😄 Pronouns: He/Him.
-- [cite_start]⚡ Fun fact: I once reduced disk utilization for a financial dataset from 77% to below 60% using threshold-based automation[cite: 12]!
+- Fun fact: I once reduced disk utilization for a financial dataset from 77% to below 60% using threshold-based automation!
 
 ## 🛠️ Technical Skills
 
@@ -46,12 +46,11 @@
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-| **[Personal Finance Manager](https://github.com/akshaykumarhp/Personal-Finance-Management-System)** | [cite_start]Optimized REST APIs and Next.js/Supabase architecture, reducing response times by 25%[cite: 43, 45]. | Next.js, Supabase, Tailwind |
-| **[Otto - Poster Platform](https://github.com/akshaykumarhp/Otto-Poster-Evaluation)** | [cite_start]Dockerized Flask & MySQL pipeline using LLMs to generate research labels for 150+ profiles[cite: 47, 48]. | Flask, MySQL, Docker, LLM |
-| **[OpenCellID API](https://github.com/akshaykumarhp)** | [cite_start]Cloud Run deployment reducing latency by 45% for 10K+ daily requests[cite: 22]. | Flask, Docker, GCP |
+| **[Personal Finance Manager](https://github.com/akshaykumarhp/Personal-Finance-Management-System)** | Optimized REST APIs and Next.js/Supabase architecture, reducing response times by 25%. | Next.js, Supabase, Tailwind |
+| **[Otto - Poster Platform](https://github.com/akshaykumarhp/Otto-Poster-Evaluation)** | Dockerized Flask & MySQL pipeline using LLMs to generate research labels for 150+ profiles. | Flask, MySQL, Docker, LLM |
 
 ## 📜 Certifications
-- [cite_start]**Google Cloud Generative AI Leader** (2025) [cite: 51]
+- **Google Cloud Generative AI Leader** (2025) 
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaykumarhp/)
