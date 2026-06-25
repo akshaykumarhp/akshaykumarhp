@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║          AKSHAY KUMAR HULIYAR PRABHAKARA                     ║
-║          GenAI Engineer · Data & AI Engineer at Citi         ║
+║          GenAI Engineer · Data & AI Engineer at Capgemini    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
